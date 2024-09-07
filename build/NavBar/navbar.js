@@ -61,86 +61,86 @@ var NavBar = function (_React$Component) {
                 },
                 React.createElement(
                   "a",
-                  { className: "nav-link ms-lg-4", href: "./" },
-                  "Home"
+                  { className: "nav-link ms-lg-4", href: "https://iveytechclub.ca" },
+                  "Home (Return to Main Site)"
                 )
               ),
-              React.createElement(
-                "li",
-                {
-                  className: this.state.active == "events" ? "nav-item active" : "nav-item"
-                },
-                React.createElement(
-                  "a",
-                  { className: "nav-link ms-lg-4", href: "events" },
-                  "Events"
-                )
-              ),
-              React.createElement(
-                "li",
-                {
-                  className: this.state.active == "resources" ? "nav-item active" : "nav-item"
-                },
-                React.createElement(
-                  "a",
-                  { className: "nav-link ms-lg-4", href: "resources" },
-                  "Resources"
-                )
-              ),
-              React.createElement(
-                "li",
-                {
-                  className: this.state.active == "people" ? "nav-item dropdown active" : "nav-item dropdown"
-                },
-                React.createElement(
-                  "a",
-                  {
-                    className: "nav-link ms-lg-4",
-                    id: "navbarDropdownMenuLink",
-                    role: "button",
-                    "data-bs-toggle": "dropdown",
-                    "aria-expanded": "false"
-                  },
-                  "People ",
-                  React.createElement("i", { className: "fas fa-caret-down" })
-                ),
-                React.createElement(
-                  "ul",
-                  {
-                    className: "dropdown-menu",
-                    "aria-labelledby": "navbarDropdownMenuLink"
-                  },
-                  React.createElement(
-                    "li",
-                    null,
-                    React.createElement(
-                      "a",
-                      { className: "dropdown-item", href: "team" },
-                      "Our Team"
-                    )
-                  ),
-                  React.createElement(
-                    "li",
-                    null,
-                    React.createElement(
-                      "a",
-                      { className: "dropdown-item", href: "alumni" },
-                      "Alumni"
-                    )
-                  )
-                )
-              ),
-              React.createElement(
-                "li",
-                {
-                  className: this.state.active == "contact" ? "nav-item active" : "nav-item"
-                },
-                React.createElement(
-                  "a",
-                  { className: "nav-link ms-lg-4", href: "contact" },
-                  "Contact"
-                )
-              )
+              // React.createElement(
+              //   "li",
+              //   {
+              //     className: this.state.active == "events" ? "nav-item active" : "nav-item"
+              //   },
+              //   React.createElement(
+              //     "a",
+              //     { className: "nav-link ms-lg-4", href: "events" },
+              //     "Events"
+              //   )
+              // ),
+              // React.createElement(
+              //   "li",
+              //   {
+              //     className: this.state.active == "resources" ? "nav-item active" : "nav-item"
+              //   },
+              //   React.createElement(
+              //     "a",
+              //     { className: "nav-link ms-lg-4", href: "resources" },
+              //     "Resources"
+              //   )
+              // ),
+              // React.createElement(
+              //   "li",
+              //   {
+              //     className: this.state.active == "people" ? "nav-item dropdown active" : "nav-item dropdown"
+              //   },
+              //   React.createElement(
+              //     "a",
+              //     {
+              //       className: "nav-link ms-lg-4",
+              //       id: "navbarDropdownMenuLink",
+              //       role: "button",
+              //       "data-bs-toggle": "dropdown",
+              //       "aria-expanded": "false"
+              //     },
+              //     "People ",
+              //     React.createElement("i", { className: "fas fa-caret-down" })
+              //   ),
+              //   React.createElement(
+              //     "ul",
+              //     {
+              //       className: "dropdown-menu",
+              //       "aria-labelledby": "navbarDropdownMenuLink"
+              //     },
+              //     React.createElement(
+              //       "li",
+              //       null,
+              //       React.createElement(
+              //         "a",
+              //         { className: "dropdown-item", href: "team" },
+              //         "Our Team"
+              //       )
+              //     ),
+              //     React.createElement(
+              //       "li",
+              //       null,
+              //       React.createElement(
+              //         "a",
+              //         { className: "dropdown-item", href: "alumni" },
+              //         "Alumni"
+              //       )
+              //     )
+              //   )
+              // ),
+              // React.createElement(
+              //   "li",
+              //   {
+              //     className: this.state.active == "contact" ? "nav-item active" : "nav-item"
+              //   },
+              //   React.createElement(
+              //     "a",
+              //     { className: "nav-link ms-lg-4", href: "contact" },
+              //     "Contact"
+              //   )
+              // )
             )
           )
         )
