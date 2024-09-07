@@ -12,7 +12,8 @@ https://www.figma.com/file/xhRnCRDWI4jLFfMv4VIIQ7/Ivey-Tech-Club
 
 ## 🚀 Deployed!
 
-Check out the deployed version at https://iveytechclub.ca.
+### 2024 – 2025 Academic Year Changes
+This full page was formerly deployed at https://iveytechclub.ca. The main site has now been superseded by https://github.com/elyknehc/iveytechclub, which will be moved to the main Ivey Tech Club organization and repo shortly. Changes have been made to reflect the 2023 – 2024 alumni in the alumni page (only page being carried over). The top and bottom bars have been hidden, and a button provisioned to return users to the new iveytechclub.ca site.
 
 ## Non-Technical Documentation
 
