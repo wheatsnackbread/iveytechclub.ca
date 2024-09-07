@@ -1,5 +1,76 @@
 {
   "alumniCohorts": [
+        {
+  "year": "2023-2024",
+  "team": [
+    {
+      "imgURL": "carrie_lu.jpeg",
+      "name": "Carrie Lu",
+      "role": "Co-President",
+      "linkedin": "https://www.linkedin.com/in/carrielu02/"
+    },
+    {
+      "imgURL": "mohamed_mohamed.png",
+      "name": "Mohamed Mohamed",
+      "role": "Co-President",
+      "linkedin": "http://linkedin.com/in/mohamed-mohamed7/"
+    },
+    {
+      "imgURL": "sharon_peng.jpeg",
+      "name": "Sharon Peng",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/pengsharon/"
+    },
+    {
+      "imgURL": "ansel_zeng.jpeg",
+      "name": "Ansel Zeng",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/anselzeng/"
+    },
+    {
+      "imgURL": "molly_chen.jpg",
+      "name": "Molly Chen",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/mollychen2/"
+    },
+    {
+      "imgURL": "karen_truong.jpeg",
+      "name": "Karen Truong",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/karentruong17/"
+    },
+    {
+      "imgURL": "justin_yan.JPG",
+      "name": "Justin Yan",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/justinyan13/"
+    },
+    {
+      "imgURL": "laura_zhao.jpeg",
+      "name": "Laura Zhao",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/lauraazhao/"
+    },
+    {
+      "imgURL": "emily_lao.jpeg",
+      "name": "Emily Lao",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/elao/"
+    },
+    {
+      "imgURL": "mylan_nguyen.jpeg",
+      "name": "Mylan Nguyen",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/mylan-nguyen/"
+    },
+    {
+      "imgURL": "amr_mohamed.png",
+      "name": "Amr Mohamed",
+      "role": "Exec",
+      "linkedin": "https://www.linkedin.com/in/amr-mohamed1/"
+    }
+  ]
+},
        {
       "year": "2022-2023",
       "team": [
