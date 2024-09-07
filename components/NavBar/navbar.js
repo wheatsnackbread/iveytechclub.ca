@@ -31,73 +31,73 @@ class NavBar extends React.Component {
                   this.state.active == "home" ? "nav-item active" : "nav-item"
                 }
               >
-                <a className="nav-link ms-lg-4" href="./">
-                  Home
+                <a className="nav-link ms-lg-4" href="https://iveytechclub.ca/">
+                  Home (Return to Main Site)
                 </a>
               </li>
-              <li
-                className={
-                  this.state.active == "events" ? "nav-item active" : "nav-item"
-                }
-              >
-                <a className="nav-link ms-lg-4" href="events">
-                  Events
-                </a>
-              </li>
-              <li
-                className={
-                  this.state.active == "resources"
-                    ? "nav-item active"
-                    : "nav-item"
-                }
-              >
-                <a className="nav-link ms-lg-4" href="resources">
-                  Resources
-                </a>
-              </li>
-              <li
-                className={
-                  this.state.active == "people"
-                    ? "nav-item dropdown active"
-                    : "nav-item dropdown"
-                }
-              >
-                <a
-                  className="nav-link ms-lg-4"
-                  id="navbarDropdownMenuLink"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  People <i className="fas fa-caret-down"></i>
-                </a>
-                <ul
-                  className="dropdown-menu"
-                  aria-labelledby="navbarDropdownMenuLink"
-                >
-                  <li>
-                    <a className="dropdown-item" href="team">
-                      Our Team
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="alumni">
-                      Alumni
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                className={
-                  this.state.active == "contact"
-                    ? "nav-item active"
-                    : "nav-item"
-                }
-              >
-                <a className="nav-link ms-lg-4" href="contact">
-                  Contact
-                </a>
-              </li>
+              // <li
+              //   className={
+              //     this.state.active == "events" ? "nav-item active" : "nav-item"
+              //   }
+              // >
+              //   <a className="nav-link ms-lg-4" href="events">
+              //     Events
+              //   </a>
+              // </li>
+              // <li
+              //   className={
+              //     this.state.active == "resources"
+              //       ? "nav-item active"
+              //       : "nav-item"
+              //   }
+              // >
+              //   <a className="nav-link ms-lg-4" href="resources">
+              //     Resources
+              //   </a>
+              // </li>
+              // <li
+              //   className={
+              //     this.state.active == "people"
+              //       ? "nav-item dropdown active"
+              //       : "nav-item dropdown"
+              //   }
+              // >
+              //   <a
+              //     className="nav-link ms-lg-4"
+              //     id="navbarDropdownMenuLink"
+              //     role="button"
+              //     data-bs-toggle="dropdown"
+              //     aria-expanded="false"
+              //   >
+              //     People <i className="fas fa-caret-down"></i>
+              //   </a>
+              //   <ul
+              //     className="dropdown-menu"
+              //     aria-labelledby="navbarDropdownMenuLink"
+              //   >
+              //     <li>
+              //       <a className="dropdown-item" href="team">
+              //         Our Team
+              //       </a>
+              //     </li>
+              //     <li>
+              //       <a className="dropdown-item" href="alumni">
+              //         Alumni
+              //       </a>
+              //     </li>
+              //   </ul>
+              // </li>
+              // <li
+              //   className={
+              //     this.state.active == "contact"
+              //       ? "nav-item active"
+              //       : "nav-item"
+              //   }
+              // >
+              //   <a className="nav-link ms-lg-4" href="contact">
+              //     Contact
+              //   </a>
+              // </li>
             </ul>
           </div>
         </div>
